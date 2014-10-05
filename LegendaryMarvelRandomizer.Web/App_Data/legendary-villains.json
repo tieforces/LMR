@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Brotherhood",
+    "Set": "Core"
+  },
+  {
+    "name": "Enemies of Asgard",
+    "Set": "Core"
+  },
+  {
+    "name": "Hydra",
+    "Set": "Core"
+  },
+  {
+    "name": "Masters of Evil",
+    "Set": "Core"
+  },
+  {
+    "name": "Radiation",
+    "Set": "Core"
+  },
+  {
+    "name": "Skrulls",
+    "Set": "Core"
+  },
+  {
+    "name": "Spider Foes",
+    "Set": "Core"
+  },
+  {
+    "name": "Emissaries of Evil",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "Four Horsemen",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "Marauders",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "MLF",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "Streets of New York",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "Underworld",
+    "Set": "DarkCity"
+  },
+  {
+    "name": "Heralds of Galactus",
+    "Set": "FantasticFour"
+  },
+  {
+    "name": "Subterranea",
+    "Set": "FantasticFour"
+  },
+  {
+    "name": "Sinister Six",
+    "Set": "PaintTheTownRed"
+  },
+  {
+    "name": "Maximum Carnage",
+    "Set": "PaintTheTownRed"
+  }
+]

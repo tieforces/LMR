@@ -1,0 +1,112 @@
+[
+  {
+    "MasterStrike": "Each player with exactly 6 cards in hand reveals a TECH Hero or puts 2 cards from their hand on top of their deck.",
+    "Name": "Dr. Doom",
+	"Set": "Core",
+	"VillainDeck": {
+		"Henchmen": "Doombot Legion",
+	}
+  },
+  {
+    "MasterStrike": "Each player reveals a STRENGTH Hero or gains a Wound.",
+    "Name": "Loki",
+	"Set": "Core",
+	"VillainDeck": {
+		"Villain": "Enemies of Asgard"
+	}
+  },
+  {
+    "MasterStrike": "Each player reveals an X-MEN Hero or discards down to four cards.",
+    "Name": "Magneto",
+	"Set": "Core",
+	"VillainDeck": {
+		"Villain": "Brotherhood"
+	}
+  },
+  {
+    "MasterStrike": "Each player KOs a Hero from their hand.",
+    "Name": "Red Skull",
+	"Set": "Core",
+	"VillainDeck": {
+		"Villain": "Hydra"
+	}
+  },
+  {
+	"AdditionalInfo": "Apocalypse wins when Famine, Pestilence, War, and Death have escaped.",
+    "Set": "DarkCity",
+    "MasterStrike": "Each player reveals their hand and puts all their Heroes that cost 1 COST or more on top of their deck.",
+    "Name": "Apocalypse",
+	"VillainDeck": {
+		"AdditionalInfo": "Four Horsemen Villains get +2 DMG.",
+		"Villain": "Four Horsemen"
+	}
+  },
+  {
+	"AdditionalInfo": "Bribe",
+    "Set": "DarkCity",
+    "MasterStrike": "Each player reveals a MK Hero or discards their hand and draws 5 cards.",
+    "Name": "Kingpin",
+	"VillainDeck": {
+		"Villain": "Streets of New York"
+	}
+  },
+  {
+	"AdditionalInfo": "Whenever a player gains a Wound, put it on top of that player's deck.",
+    "Set": "DarkCity",
+    "MasterStrike": "Each player reveals a MK Hero or gains a Wound.",
+    "Name": "Mephisto",
+	"VillainDeck": {
+		"Villain": "Underworld"
+	}
+  },
+  {
+	"AdditionalInfo": "Mr. Sinister gets +1 DMG for each Bystander he has.",
+    "Set": "DarkCity",
+    "MasterStrike": "Mr. Sinister captures a Bystander. Then each player with exactly 6 cards reveals a STEALTH Hero or discards cards equal to the number of Bystanders Mr. Sinister has.",
+    "Name": "Mr. Sinister",
+	"VillainDeck": {
+		"Villain": "Marauders"
+	}
+  },
+  {
+    "Set": "DarkCity",
+    "MasterStrike": "Stack the Master Strike next to Stryfe. Stryfe gets +1 DMG for each Master Strike stacked next to him. Each player reveals an X-FORCE Hero or discards a card at random.",
+    "Name": "Stryfe",
+	"VillainDeck": {
+		"Villain": "MLF"
+	}
+  },
+  {
+	"AdditionalInfo": "Galactus wins when the city is destroyed.",
+    "Set": "FantasticFour",
+    "MasterStrike": "Destroy the city space closest to Galactus. Any villain there escapes. Put this Master strike there.",
+    "Name": "Galactus",
+	"VillainDeck": {
+		"Villain": "Heralds of Galactus"
+	}
+  },
+  {
+    "Set": "FantasticFour",
+    "MasterStrike": "All Subterranea Villains in the city escape. If any Villain escaped this way each player gains a Wound.",
+    "Name": "MoleMan",
+	"VillainDeck": {
+		"Villain": "Subterranea"
+	}
+  },
+  {
+    "Set": "PaintTheTownRed",
+    "MasterStrike": "Feast on each player. Whenever this Master Strike feasts on a player's 0-cost Hero, that player gains a wound.",
+    "Name": "Carnage",
+	"VillainDeck": {
+		"Villain": "Maximum Carnage"
+	}
+  },
+  {
+    "Set": "PaintTheTownRed",
+    "MasterStrike": "Shuffle this Master Strike into Mysterio's face down Mastermind Tactics. That card becomes a Mastermind Tactic worth 6 Victory points.",
+    "Name": "Mysterio",
+	"VillainDeck": {
+		"Villain": "Sinister Six"
+	}
+  }
+]

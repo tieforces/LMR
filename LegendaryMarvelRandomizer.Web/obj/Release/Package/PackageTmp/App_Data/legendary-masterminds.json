@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Dr. Doom",
+    "expansion": "",
+    "leads": "Doombot Legion",
+    "masterStrike": "Each player with exactly 6 cards in hand reveals a TECH Hero or puts 2 cards from their hand on top of their deck.",
+    "info": ""
+  },
+  {
+    "name": "Loki",
+    "expansion": "",
+    "leads": "Enemies of Asgard",
+    "masterStrike": "Each player reveals a STRENGTH Hero or gains a Wound.",
+    "info": ""
+  },
+  {
+    "name": "Magneto",
+    "expansion": "",
+    "leads": "Brotherhood",
+    "masterStrike": "Each player reveals an X-MEN Hero or discards down to four cards.",
+    "info": ""
+  },
+  {
+    "name": "Red Skull",
+    "expansion": "",
+    "leads": "Hydra",
+    "masterStrike": "Each player KOs a Hero from their hand.",
+    "info": ""
+  },
+  {
+    "name": "Apocalypse",
+    "expansion": "Dark City",
+    "leads": "Four Horsemen. Four Horsemen Villains get +2 DMG.",
+    "masterStrike": "Each player reveals their hand and puts all their Heroes that cost 1 COST or more on top of their deck.",
+    "info": "Apocalypse wins when Famine, Pestilence, War, and Death have escaped."
+  },
+  {
+    "name": "Kingpin",
+    "expansion": "Dark City",
+    "leads": "Streets of New York",
+    "masterStrike": "Each player reveals a MK Hero or discards their hand and draws 5 cards.",
+    "info": "Bribe"
+  },
+  {
+    "name": "Mephisto",
+    "expansion": "Dark City",
+    "leads": "Underworld",
+    "masterStrike": "Each player reveals a MK Hero or gains a Wound.",
+    "info": "Whenever a player gains a Wound, put it on top of that player's deck."
+  },
+  {
+    "name": "Mr. Sinister",
+    "expansion": "Dark City",
+    "leads": "Marauders",
+    "masterStrike": "Mr. Sinister captures a Bystander. Then each player with exactly 6 cards reveals a STEALTH Hero or discards cards equal to the number of Bystanders Mr. Sinister has.",
+    "info": "Mr. Sinister gets +1 DMG for each Bystander he has."
+  },
+  {
+    "name": "Stryfe",
+    "expansion": "Dark City",
+    "leads": "MLF",
+    "masterStrike": "Stack the Master Strike next to Stryfe. Stryfe gets +1 DMG for each Master Strike stacked next to him. Each player reveals an X-FORCE Hero or discards a card at random.",
+    "info": ""
+  },
+  {
+	"name" : "Galactus",
+	"expansion": "The Fantastic Four",
+	"leads": "Heralds of Galactus",
+	"masterStrike": "Destroy the city space closest to Galactus. Any villain there escapes. Put this Master strike there.",
+	"info": "Galactus wins when the city is destroyed."
+  },
+  {
+	"name" : "MoleMan",
+	"expansion": "The Fantastic Four",
+	"leads": "Subterranea",
+	"masterStrike": "All Subterranea Villains in the city escape. If any Villain escaped this way each player gains a Wound.",
+	"info": ""
+  }
+]

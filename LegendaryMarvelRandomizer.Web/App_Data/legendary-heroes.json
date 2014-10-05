@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Black Widow",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Captain America",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Cyclops",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Deadpool",
+    "set": "Core",
+	"team": "None"
+  },
+  {
+    "name": "Emma Frost",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Gambit",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Hawkeye",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Hulk",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Iron Man",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Nick Fury",
+    "set": "Core",
+	"team": "SHIELD"
+  },
+  {
+    "name": "Rogue",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Spiderman",
+    "set": "Core",
+	"team": "SpiderFriends"
+  },
+  {
+    "name": "Storm",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Thor",
+    "set": "Core",
+	"team": "Avengers"
+  },
+  {
+    "name": "Wolverine",
+    "set": "Core",
+	"team": "XMen"
+  },
+  {
+    "name": "Angel",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "Bishop",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "Blade",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Cable",
+    "set": "DarkCity",
+	"team": "XForce"
+  },
+  {
+    "name": "Colossus",
+    "set": "DarkCity",
+	"team": "XForce"
+  },
+  {
+    "name": "Daredevil",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Domino",
+    "set": "DarkCity",
+	"team": "XForce"
+  },
+  {
+    "name": "Elektra",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Forge",
+    "set": "DarkCity",
+	"team": "XForce"
+  },
+  {
+    "name": "Ghost Rider",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Iceman",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "Iron Fist",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Jean Grey",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "Nightcrawler",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "Professor X",
+    "set": "DarkCity",
+	"team": "XMen"
+  },
+  {
+    "name": "The Punisher",
+    "set": "DarkCity",
+	"team": "MarvelKnights"
+  },
+  {
+    "name": "Wolverine",
+    "set": "DarkCity",
+	"team": "XForce"
+  },
+  {
+	"name": "Human Torch",
+	set: "FantasticFour",
+	"team": "FantasticFour"
+  },
+  {
+	"name": "Invisible Woman",
+	set: "FantasticFour",
+	"team": "FantasticFour"
+  },
+  {
+	"name": "Mr. Fantastic",
+	set: "FantasticFour",
+	"team": "FantasticFour"
+  },
+  {
+	"name": "Silver Surfer",
+	set: "FantasticFour",
+	"team": "FantasticFour"
+  },
+  {
+	"name": "Thing",
+	set: "FantasticFour",
+	"team": "FantasticFour"
+  },
+  {
+	"name": "Spider-Woman",
+	set: "PaintTheTownRed",
+	"team": "SpiderFriends"
+  },
+  {
+	"name": "Symbiote Spider-Man",
+	set: "PaintTheTownRed",
+	"team": "SpiderFriends"
+  },
+  {
+	"name": "Black Cat",
+	set: "PaintTheTownRed",
+	"team": "SpiderFriends"
+  },
+  {
+	"name": "Moon Knight",
+	set: "PaintTheTownRed",
+	"team": "MarvelKnights"
+  },
+  {
+	"name": "Scarlet Spider",
+	set: "PaintTheTownRed",
+	"team": "SpiderFriends"
+  }
+]
