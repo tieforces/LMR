@@ -1,9 +1,0 @@
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\LegendaryMarvelRandomizer.Core.dll
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\LegendaryMarvelRandomizer.Core.pdb
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\MongoDB.Bson.dll
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\MongoDB.Driver.dll
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\MongoDB.Bson.xml
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\bin\Debug\MongoDB.Driver.xml
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\obj\Debug\LegendaryMarvelRandomizer.Core.dll
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\obj\Debug\LegendaryMarvelRandomizer.Core.pdb
-C:\Dev\Personal\LegendaryMarvelRandomizer\LegendaryMarvelRandomizer.Core\obj\Debug\LegendaryMarvelRandomizer.Core.csprojResolveAssemblyReference.cache
