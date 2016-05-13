@@ -12,6 +12,7 @@ namespace LMR.Web.Controllers
 {
     public class HomeController : Controller
     {
+        // this is a test!
         #region Member Variables
 
         Core.Managers.ILMRManager _manager;
